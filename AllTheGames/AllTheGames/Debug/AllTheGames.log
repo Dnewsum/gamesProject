@@ -1,0 +1,5 @@
+﻿  Blackjack.cpp
+c:\users\danrn\source\repos\allthegames\allthegames\blackjack.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\danrn\source\repos\allthegames\allthegames\blackjack.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\danrn\source\repos\allthegames\allthegames\blackjack.cpp(183): warning C4715: 'blackjack': not all control paths return a value
+  AllTheGames.vcxproj -> C:\Users\danrn\source\repos\AllTheGames\Debug\AllTheGames.exe
